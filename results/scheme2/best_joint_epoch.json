@@ -1,0 +1,9 @@
+{
+  "ssl_epoch": 16,
+  "val_joint_score": 1.6484895002747169,
+  "selected_mlp_epoch": 97,
+  "mean_val_pcc": 0.8744610060389439,
+  "mean_test_pcc_DIAGNOSTIC": 0.8479204705202342,
+  "selection": "validation_joint_macro_only",
+  "warning": "test was evaluated for monitoring; not used for selection"
+}

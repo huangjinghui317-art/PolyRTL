@@ -1,0 +1,54 @@
+{
+  "upstream_revision": "b6a4cc61de250e9dc7a26debf06cac530fe05f71",
+  "dataset_revision": "80075e702fe19bff8f2608c0edc56d925f9ee5fc",
+  "ratio": "0.3-0.3-0.4",
+  "splits": {
+    "train": {
+      "circuits": 34,
+      "feature_rows": 3211,
+      "retained_cones": 3211,
+      "index_shape": [
+        34,
+        1500
+      ],
+      "graph_shape": [
+        3211,
+        768
+      ],
+      "pkl_sha256": "d4f0e8d5b85327ba39f75e6cee733e12f49245dfd354159ffdd08da8067a3cf4",
+      "split_sha256": "6cb4d2810c64262fbd30887bca55131d2a9083f8aa8c40cd18794e265a481254"
+    },
+    "valid": {
+      "circuits": 34,
+      "feature_rows": 2547,
+      "retained_cones": 2547,
+      "index_shape": [
+        34,
+        1500
+      ],
+      "graph_shape": [
+        2547,
+        768
+      ],
+      "pkl_sha256": "3000031552a1f69bbb095f9934ac3de6d09b57c033aef6ee2c50be62a487357a",
+      "split_sha256": "2ceb2c9f17aeff2d6afe4aea564e64bda181c1f54fbb717b06991f8443310dcd"
+    },
+    "test": {
+      "circuits": 47,
+      "feature_rows": 1818,
+      "retained_cones": 1818,
+      "index_shape": [
+        47,
+        1500
+      ],
+      "graph_shape": [
+        1818,
+        768
+      ],
+      "pkl_sha256": "2943b90d3b7ff2817682fe3ed0e76c41f4e926d525677f9cac19a05bfaabf466",
+      "split_sha256": "1328098eb6311f3e226c14da102dc15570096cccc69035353c7c3f83100d58a6"
+    }
+  },
+  "source": "author_graphormer_and_bert_caches",
+  "raw_cones_present": false
+}

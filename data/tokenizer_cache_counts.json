@@ -1,0 +1,18 @@
+{
+  "train": {
+    "graph": 3211,
+    "summary": 3211,
+    "summary_count": 3211
+  },
+  "valid": {
+    "graph": 2547,
+    "summary": 3211,
+    "summary_count": 2547
+  },
+  "test": {
+    "graph": 1818,
+    "summary": 1818,
+    "summary_count": 1818
+  },
+  "train_valid_summary_cache_identical": true
+}

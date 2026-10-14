@@ -1,0 +1,285 @@
+{
+  "counts": {
+    "processed": 1,
+    "processed/graph": 7577,
+    "processed/0.1-0.1-0.8": 1,
+    "processed/0.1-0.1-0.8/test": 6,
+    "processed/0.1-0.1-0.8/valid": 6,
+    "processed/0.1-0.1-0.8/train": 6,
+    "processed/0.2-0.2-0.6": 1,
+    "processed/0.2-0.2-0.6/valid": 6,
+    "processed/0.2-0.2-0.6/train": 6,
+    "processed/0.2-0.2-0.6/test": 6,
+    "processed/0.4-0.4-0.2": 1,
+    "processed/0.4-0.4-0.2/train": 6,
+    "processed/0.4-0.4-0.2/test": 6,
+    "processed/0.4-0.4-0.2/valid": 6,
+    "processed/0.3-0.3-0.4": 1,
+    "processed/0.3-0.3-0.4/valid": 6,
+    "processed/0.3-0.3-0.4/train": 6,
+    "processed/0.3-0.3-0.4/test": 6
+  },
+  "bytes": {
+    "processed": 0,
+    "processed/graph": 165209563533,
+    "processed/0.1-0.1-0.8": 0,
+    "processed/0.1-0.1-0.8/test": 166635752,
+    "processed/0.1-0.1-0.8/valid": 9734996,
+    "processed/0.1-0.1-0.8/train": 10149537,
+    "processed/0.2-0.2-0.6": 0,
+    "processed/0.2-0.2-0.6/valid": 31790612,
+    "processed/0.2-0.2-0.6/train": 35597161,
+    "processed/0.2-0.2-0.6/test": 119131083,
+    "processed/0.4-0.4-0.2": 0,
+    "processed/0.4-0.4-0.2/train": 61806347,
+    "processed/0.4-0.4-0.2/test": 31936214,
+    "processed/0.4-0.4-0.2/valid": 92776297,
+    "processed/0.3-0.3-0.4": 0,
+    "processed/0.3-0.3-0.4/valid": 63159169,
+    "processed/0.3-0.3-0.4/train": 72056631,
+    "processed/0.3-0.3-0.4/test": 53342900
+  },
+  "selected": [
+    {
+      "path": "processed/0.1-0.1-0.8/test/data_dict_map.json",
+      "size": 533024
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/test/summary_embs.pkl",
+      "size": 21550486
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/test/test.pkl",
+      "size": 85515892
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/test/graph_embs.pkl",
+      "size": 21550486
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/test/summary_dataset.json",
+      "size": 37485864
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/valid/data_dict_map.json",
+      "size": 16946
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/valid/summary_embs.pkl",
+      "size": 839062
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/valid/summary_dataset.json",
+      "size": 1344304
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/valid/valid.pkl",
+      "size": 6695622
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/valid/graph_embs.pkl",
+      "size": 839062
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/train/summary_dataset.json",
+      "size": 1579611
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/train/data_dict_map.json",
+      "size": 11919
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/train/graph_embs.pkl",
+      "size": 885142
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/train/summary_embs.pkl",
+      "size": 885142
+    },
+    {
+      "path": "processed/0.1-0.1-0.8/train/train.pkl",
+      "size": 6787723
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/valid/graph_embs.pkl",
+      "size": 3729816
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/valid/summary_dataset.json",
+      "size": 6302478
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/valid/valid.pkl",
+      "size": 17949916
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/valid/summary_embs.pkl",
+      "size": 3729816
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/valid/data_dict_map.json",
+      "size": 78586
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/train/train.pkl",
+      "size": 19344539
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/train/data_dict_map.json",
+      "size": 87220
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/train/summary_dataset.json",
+      "size": 7311084
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/train/graph_embs.pkl",
+      "size": 4427160
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/train/summary_embs.pkl",
+      "size": 4427158
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/test/data_dict_map.json",
+      "size": 394644
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/test/test.pkl",
+      "size": 61704782
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/test/summary_dataset.json",
+      "size": 26796217
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/test/graph_embs.pkl",
+      "size": 15117720
+    },
+    {
+      "path": "processed/0.2-0.2-0.6/test/summary_embs.pkl",
+      "size": 15117720
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/train/graph_embs.pkl",
+      "size": 7084438
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/train/data_dict_map.json",
+      "size": 143305
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/train/summary_embs.pkl",
+      "size": 7084438
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/train/train.pkl",
+      "size": 35148623
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/train/summary_dataset.json",
+      "size": 12345543
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/test/summary_embs.pkl",
+      "size": 3689878
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/test/summary_dataset.json",
+      "size": 6611228
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/test/data_dict_map.json",
+      "size": 75168
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/test/graph_embs.pkl",
+      "size": 3689878
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/test/test.pkl",
+      "size": 17870062
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/valid/summary_embs.pkl",
+      "size": 12500374
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/valid/summary_dataset.json",
+      "size": 21453008
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/valid/valid.pkl",
+      "size": 45980564
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/valid/graph_embs.pkl",
+      "size": 12500374
+    },
+    {
+      "path": "processed/0.4-0.4-0.2/valid/data_dict_map.json",
+      "size": 341977
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/valid/summary_dataset.json",
+      "size": 14147012
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/valid/valid.pkl",
+      "size": 31156539
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/valid/summary_embs.pkl",
+      "size": 9864600
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/valid/data_dict_map.json",
+      "size": 166226
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/valid/graph_embs.pkl",
+      "size": 7824792
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/train/summary_dataset.json",
+      "size": 16810319
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/train/data_dict_map.json",
+      "size": 280867
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/train/graph_embs.pkl",
+      "size": 9864600
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/train/summary_embs.pkl",
+      "size": 9864600
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/train/train.pkl",
+      "size": 35236245
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/test/test.pkl",
+      "size": 32606489
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/test/summary_embs.pkl",
+      "size": 5585302
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/test/graph_embs.pkl",
+      "size": 5585304
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/test/summary_dataset.json",
+      "size": 9452448
+    },
+    {
+      "path": "processed/0.3-0.3-0.4/test/data_dict_map.json",
+      "size": 113357
+    }
+  ],
+  "elapsed_seconds": 43.15612506866455
+}
